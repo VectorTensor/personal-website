@@ -1,4 +1,11 @@
-{
+{{
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+}
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
