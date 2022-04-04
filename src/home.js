@@ -16,7 +16,7 @@ function Home (){
         <div id="logo">
         Prayash Thapa
         </div>
-        <div className="menu"> 
+        <div className="menu">
     <Nav />
         </div>
         </div>
@@ -32,4 +32,4 @@ function Home (){
     );
 }
 
-export default Home 
+export default Home

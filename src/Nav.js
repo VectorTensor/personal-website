@@ -7,7 +7,7 @@ function Nav(){
 <Link to="/">
         <h3 className="nav-links">
             About
-        
+
         </h3>
         </Link>
         <Link to="/art">
